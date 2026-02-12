@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-community
+ollama
+streamlit
+gradio
+requests
+pandas
+numpy
